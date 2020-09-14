@@ -12,3 +12,6 @@
  - ### [The neurocognitive effects of alcohol on adolescents and college students](https://www.sciencedirect.com/science/article/pii/S0091743504002658)
 
 
+![Figure of assignment 2](https://github.com/Lars-Water/CS_Assignment/blob/master/Seminars%20Assignment%202.png)
+
+It appears that there is a correlation between the number of people who received an WO degree and the number of annually consumed beer in the Netherlands.
